@@ -1,4 +1,4 @@
-# EDA - airqualityindex
+# Predictive Analytics - airqualityindex
 #### This project uses the data of AQI and different other
 #### pollutants across a few Indian cities during 2015 to 2020. The data is taken from Kaggle.
 #### https://www.kaggle.com/rohanrao/air-quality-data-in-india?select=city_day.csv.
